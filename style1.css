@@ -6,7 +6,7 @@
 
 #main{
     
-    background:linear-gradient(110deg,rgb(255, 226, 226),rgba(245, 223, 223, 0.493));
+ background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%); 
     background-size: cover;
     background-position: center;
     text-transform: uppercase;
